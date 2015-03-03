@@ -1,6 +1,4 @@
 # MyTest
 
 
-
-
-This is a test for resolving conflicts.
+This is a test text for resolving conflicts.
